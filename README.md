@@ -40,7 +40,7 @@ The following are some of the areas for future work:
 
 3. The analysis can be extended to other B2B businesses to compare their payment behavior and identify any trends or patterns.
 
-[Jupyter File]
+[Jupyter File] https://github.com/JitalEn/Ecomm_retailbusiness/blob/main/Ecomm_RetailBusiness_250423.ipynb
 
 
 [Presentation]
