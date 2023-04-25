@@ -43,5 +43,5 @@ The following are some of the areas for future work:
 [Jupyter File] https://github.com/JitalEn/Ecomm_retailbusiness/blob/main/Ecomm_RetailBusiness_250423.ipynb
 
 
-[Presentation]
+[Presentation] https://github.com/JitalEn/Ecomm_retailbusiness/blob/main/E-commerce%20%26%20retail%20B2B%20Case%20Study.pdf
 
